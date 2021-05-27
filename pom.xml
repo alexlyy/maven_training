@@ -8,7 +8,6 @@
     <artifactId>maven_training</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
-
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -19,7 +18,6 @@
         <maven-surefire-plugin.version>2.22.0</maven-surefire-plugin.version>
         <jacoco-maven-plugin.version>0.8.6</jacoco-maven-plugin.version>
     </properties>
-
 
     <dependencies>
         <dependency>
